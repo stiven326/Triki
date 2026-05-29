@@ -5,11 +5,13 @@
     background-color: rgb(255, 244, 196);
     border-radius: 10pxs;
     margin: 1px;
-    font-size: 16px;
+    font-size: 50px;
     display: flex;
     justify-content: center;
     align-items: center;
 }
+
+
 
 #contenedor{
     display: grid;
